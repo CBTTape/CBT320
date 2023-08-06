@@ -1,0 +1,5 @@
+2023-08-06 02:54:31.099391 - Initialized conversion of CBT320
+2023-08-06 02:54:31.131880 - Received CBT.V505.FILE320.PDS from FILE320.XMI 
+2023-08-06 02:54:31.134177 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE320.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:54:31.135407 - Found @FILE320.txt (text/plain) in CBT.V505.FILE320.PDS, moved to PDS/@FILE320
+2023-08-06 02:54:31.136472 - Found FASTDSS.jcl (text/plain) in CBT.V505.FILE320.PDS, moved to PDS/FASTDSS
